@@ -1,1 +1,1 @@
-*Object In Image Classifier*
+
